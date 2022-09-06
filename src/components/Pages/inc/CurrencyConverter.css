@@ -11,7 +11,15 @@
 }
 
 .Currency-Input{
-    margin-right: 121px;
+    margin-right: 91px;
     justify-items: center;
     align-items: center;
+}
+
+.currency-body{
+    justify-content: center;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
 }

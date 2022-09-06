@@ -153,7 +153,7 @@ function handleAmount2Change(amount2) {
 
 
   return (
-    <div>
+    <div className="currency-body">
         <h1>Currency Converter</h1>
         <div className="Currency-Input">
         <CurrencyInput

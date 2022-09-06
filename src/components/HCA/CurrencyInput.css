@@ -3,17 +3,18 @@
     width: 180px;
     margin: 0 auto 10px;
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: auto 0px;
     justify-items: center;
-    border-radius: 15px;
-    overflow: hidden;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
 }
 input,select{
     background-color: #335;
     border:0;
     color: white;
     align-items: center;
-    border-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 input{
     padding-left: 1cm;
