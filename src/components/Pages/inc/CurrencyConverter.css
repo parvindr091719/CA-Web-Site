@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.body{
+    background-color: #161616;
+    color: rgb(15, 14, 14);
+    padding: 50px;
+    justify-content: center;
+}
+
+.Currency-Input{
+    margin-right: 121px;
+    justify-items: center;
+    align-items: center;
+}
