@@ -3,19 +3,21 @@
     width: 180px;
     margin: 0 auto 10px;
     display: grid;
-    grid-template-columns: auto auto;
-    justify-items: center;
+    grid-template-columns: 100px 85px;
+    /* justify-items: center; */
     border-radius: 15px;
+    overflow: hidden;
 }
 input,select{
     background-color: #335;
     border:0;
     color: white;
+    align-items: center;
     border-radius: 15px;
 }
 input{
+    padding-left: 1cm;
     background: none;
-    padding-left: 25px;
     color:white;
 }
 select{
