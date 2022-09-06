@@ -3,8 +3,8 @@
     width: 180px;
     margin: 0 auto 10px;
     display: grid;
-    grid-template-columns: 100px 85px;
-    /* justify-items: center; */
+    grid-template-columns: auto auto;
+    justify-items: center;ini
     border-radius: 15px;
     overflow: hidden;
 }
