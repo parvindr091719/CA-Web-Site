@@ -32,7 +32,7 @@ const Contact = () =>{
                         <div className="card-body">
                             <div className="row">
                                 <div className="col-md-6">
-                                    <form onSubmit={Submits}>
+
                                     <h6>Contact Form</h6>
                                     <hr/>
                                     <div className="form-group">
@@ -59,7 +59,6 @@ const Contact = () =>{
                                         <button type="submit" className="btn btn-primary shadow w-100"
                                          onClick={Alert}>Send Message</button>
                                     </div>
-                                    </form>
                                 </div>
                                 <div className="col-md-6 border-start">
                                     <img src={contact1} className="w-100 border-bottom" alt="Services"/>
